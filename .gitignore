@@ -1,0 +1,24 @@
+## [ Додатки .NET ]
+bin/
+obj/
+/packages/
+TestResults/
+*.suo
+*.user
+*.sln.dotSettings.user
+
+## [ JetBrains (Rider) ]
+.idea/
+*.sln.iml
+riderModule.iml
+/_ReSharper.Caches/
+
+## [ Visual Studio ]
+.vs/
+.vs*
+[Dd]ebug/
+[Rr]elease/
+
+## [ Конфігурації та секрети ]
+appsettings.Development.json
+.env
